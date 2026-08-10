@@ -4,7 +4,7 @@ A quick, interactive walkthrough of NICE's CT head guideline (NG232,
 2023) — built so the criteria are easy to check against on a busy shift, 
 rather than having to hold the whole decision tree in your head.
 
-🔗 **Live app:** [add your Streamlit Cloud URL here]
+🔗 **Live app:** [https://karimuharuna-ct-head-nice-tool-dashboard-h9ghjm.streamlit.app/]
 
 ## Why I built this
 
